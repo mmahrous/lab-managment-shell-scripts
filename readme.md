@@ -1,5 +1,5 @@
 # Lab Managment shell scripts
-This scripts I created cause I had to deal with 24 PC in the same LAN.
+This scripts I created cause I had to deal with 24 PC on the same LAN.
 
 #### SSH key injection
 This script is used to authorize the ssh key of the managment machine
